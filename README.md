@@ -99,11 +99,11 @@ public class Compte {
     <h3><li>With SOAPUI client</li></h3>
     <ul type="circle">
         <h4><li>Convert methode</li></h4>
-            <img src="images/soap1.png">
+            <img src="images/soap1.PNG">
         <h4><li>getCompte methode</li></h4>
-            <img src="images/soap2.png">
+            <img src="images/soap2.PNG">
         <h4><li>listCompte methode</li></h4>
-            <img src="images/soap3.png">
+            <img src="images/soap3.PNG">
     </ul>
 </ol>
 </ol>
